@@ -1,7 +1,4 @@
-Hwajin Jo's Github
-- My Github Stats
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwajin-jo)](https://github.com/anuraghazra/github-readme-stats)
+Hwajin Jo's Github 👋
 
 - My Top Langs
 
